@@ -39,7 +39,7 @@
 | ✅ | 26/09 | `Pedro Rossetto` | Chaos on Hyperbolic Pair of Pants |
 | ✅ | 03/10 | `Kit Boyett` | What can equivalent width distributions tell us about the EoR |
 | ✅ | 10/10 | `Julian Carlin` | What might we learn from a continuous grav wave detection? |
-| | 17/10 | `Liam Dunn` | |
+| | 17/10 | `Liam Dunn` | A new small glitch in the Vela pulsar |
 | | 24/10 | `Tracy Bu` | |
 | | 31/10 | `Giovanni Ferrami` | |
 | | 07/11 | `Katsuya Abe (Nagoya University)` | |
