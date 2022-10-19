@@ -43,7 +43,7 @@
 | | 24/10 | `Giovanni Ferrami` | |
 | | 31/10 | `Tracy Bu` | |
 | | 07/11 | `Katsuya Abe (Nagoya University)` | |
-| | 14/11 | `Reinhold Willcox (Monash University)` | |
+| | 14/11 | `Vishal Ayyagari` | Observing distant galaxies with space telescopes |
 | ❌ | 21/11 | `Ozgrav and Astro3D Retreat` | |
 | | 28/11 | `Matt Thomas` | |
 | | 05/12 | `Tom Kimpson` | |
