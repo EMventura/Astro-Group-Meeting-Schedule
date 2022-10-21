@@ -40,7 +40,7 @@
 | ✅ | 03/10 | `Kit Boyett` | What can equivalent width distributions tell us about the EoR |
 | ✅ | 10/10 | `Julian Carlin` | What might we learn from a continuous grav wave detection? |
 | ✅ | 17/10 | `Liam Dunn` | A new small glitch in the Vela pulsar |
-| | 24/10 | `Giovanni Ferrami` | |
+| | 24/10 | `Giovanni Ferrami` | Effect of source size and lens ellipticity on the luminosity function bright-end |
 | | 31/10 | `Tracy Bu` | |
 | | 07/11 | `Katsuya Abe (Nagoya University)` | |
 | | 14/11 | `Vishal Ayyagari` | Observing distant galaxies with space telescopes |
