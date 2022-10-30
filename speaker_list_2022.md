@@ -41,7 +41,7 @@
 | ✅ | 10/10 | `Julian Carlin` | What might we learn from a continuous grav wave detection? |
 | ✅ | 17/10 | `Liam Dunn` | A new small glitch in the Vela pulsar |
 | ✅ | 24/10 | `Giovanni Ferrami` | Effect of source size and lens ellipticity on the luminosity function bright-end |
-| | 31/10 | `Tracy Bu` | |
+| | 31/10 | `Tracy Bu` | Discerning media bias within a network of political allies and opponents: Disruption by partisans |
 | | 07/11 | `Katsuya Abe (Nagoya University)` | Cosmological free-free emission from dark matter halos in the ΛCDM model |
 | | 14/11 | `Vishal Ayyagari` | Observing distant galaxies with space telescopes |
 | ❌ | 21/11 | `Ozgrav and Astro3D Retreat` | |
