@@ -43,9 +43,9 @@
 | ✅ | 24/10 | `Giovanni Ferrami` | Effect of source size and lens ellipticity on the luminosity function bright-end |
 | ✅ | 31/10 | `Tracy Bu` | Discerning media bias within a network of political allies and opponents: Disruption by partisans |
 | ✅ | 07/11 | `Katsuya Abe (Nagoya University)` | Cosmological free-free emission from dark matter halos in the ΛCDM model |
-| | 14/11 | `Vishal Ayyagari` | Observing distant galaxies with space telescopes |
+| ✅ | 14/11 | `Vishal Ayyagari` | Observing distant galaxies with space telescopes |
 | ❌ | 21/11 | `Ozgrav and Astro3D Retreat` | |
 | | 28/11 | `Matt Thomas` | |
-| | 05/12 | `Tom Kimpson` | |
+| | 05/12 | `` | |
 | | 12/12 | `Joe O'leary` | |
 | | 19/12 | `James Robert Paynter` | |
